@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E2FE5E76-54B2-4536-AC53-7A1AF64F8D06}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/msn/Projects/ab/ab/ab/App.xaml.cs" relfile="ab/ab/App.xaml.cs" line="59" column="17" />
+      <Breakpoint file="/Users/msn/Projects/ab/ab/ab/App.xaml.cs" relfile="ab/ab/App.xaml.cs" line="121" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ab/ab/App.xaml.cs">
+    <Files>
+      <File FileName="ab/ab/Views/AboutPage.xaml.cs" />
+      <File FileName="ab/ab/Views/AboutPage.xaml" />
+      <File FileName="ab/ab/GettingStarted.txt" />
+      <File FileName="ab/ab/AppShell.xaml" />
+      <File FileName="ab/ab.iOS/Main.cs" Line="18" Column="10" />
+      <File FileName="ab/ab/App.xaml.cs" Line="59" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ab" expanded="True">
+            <Node name="ab" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ab.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ab.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_5_-_api_30" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.Ide.ItemProperties.ab.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4BF9E003-2570-4029-9E21-7A45C3D6CA82" />
+</Properties>
